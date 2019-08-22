@@ -1,0 +1,12 @@
+Your name: Thien Tran
+Your student ID: 011860043
+Your major: Software Engineering
+Your preferred email address: thientran1702@gmail.com
+Undergraduate
+Repeating the class? No
+Place and semester where you took a programming course in Java: SJSU
+Course number and grade received: CS46B: C | CS146:C
+Place and semester where you took a course in data structures: 
+Course number and grade received: CS46B: C | CS146:C
+Time it took you to answer the two questions below: 45 minutes
+Did you ask anyone for help? No

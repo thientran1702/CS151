@@ -20,7 +20,7 @@ public class CircleFrame extends JComponent {
         protected void paintComponent(Graphics g) {
                 if (image == null) 
                 {
-                        // image to draw null ==> we create
+                        // image to draw null
                         image = createImage(getSize().width, getSize().height);
                         g2 = (Graphics2D) image.getGraphics();
 

@@ -28,10 +28,10 @@ public class CircleColor
 
         public static void main(String[] args) 
         {
-                new CircleColor().show();
+                new CircleColor().repaint();
         }
 
-        public void show() 
+        public void repaint() 
         {
                 // create main frame
                 JFrame frame = new JFrame("Color Changer");

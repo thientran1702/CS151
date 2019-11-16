@@ -1,6 +1,3 @@
-package com.exciese.car;
-
-import com.exciese.car.MoveableShape;
 
 import java.awt.*;
 import java.awt.geom.*;

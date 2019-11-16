@@ -1,8 +1,3 @@
-package com.exciese.car;
-
-import com.exciese.car.CarShape;
-import com.exciese.car.MoveableShape;
-import com.exciese.car.ShapeIcon;
 
 import java.awt.*;
 import java.awt.event.*;

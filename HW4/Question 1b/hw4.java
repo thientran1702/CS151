@@ -10,9 +10,9 @@ Thread one = new Thread(r);
 
 Thread two = new Thread(r);
 
-one.setName("first-user");
+one.setName("first user");
 
-two.setName("second-user");
+two.setName("second user");
 
 one.start();
 
@@ -30,7 +30,7 @@ makeTransfer(10);
 
 if (acct.showBalance() < 0) {
 
-System.out.println("overdrawn!");
+System.out.println("Over limit!");
 
 }
 
@@ -58,7 +58,7 @@ System.out.println(Thread.currentThread().getName() + " completes the drawnal");
 
 } else {
 
-System.out.println("Not enough in account for " + Thread.currentThread().getName() + " to drawn " + acct.showBalance());
+System.out.println("Insufficient balance for " + Thread.currentThread().getName() + " to drawn " + acct.showBalance());
 
 }
 
